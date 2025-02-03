@@ -2,7 +2,6 @@ appdirs
 atomicwrites
 backports.weakref
 clyent
-conda-verify
 et-xmlfile
 fastapi
 fonttools
