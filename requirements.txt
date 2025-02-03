@@ -2,7 +2,6 @@ appdirs
 atomicwrites
 backports.weakref
 clyent
-conda-repo-cli
 conda-verify
 et-xmlfile
 fastapi
